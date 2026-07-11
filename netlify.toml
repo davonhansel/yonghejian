@@ -1,0 +1,23 @@
+[build]
+  command = "npm run build"
+  publish = "out"
+
+[[redirects]]
+  from = "/en/partners"
+  to = "/en/about"
+  status = 301
+
+[[redirects]]
+  from = "/zh/partners"
+  to = "/zh/about"
+  status = 301
+
+[[redirects]]
+  from = "/en/projects/projectsDetails/*"
+  to = "/en/projects"
+  status = 301
+
+[[redirects]]
+  from = "/zh/projects/projectsDetails/*"
+  to = "/zh/projects"
+  status = 301
