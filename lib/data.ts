@@ -44,7 +44,7 @@ export interface LocalizedService {
 export const projects: LocalizedProject[] = [
   {
     id: 'nova-finance',
-    image: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    image: 'https://free.picui.cn/free/20260713/088d052ce15067e7d83f040d4b1d4a65.webp',
     title: {
       en: 'Precision Hardware Mold R&D',
       zh: '精密五金模具研发',
@@ -72,7 +72,7 @@ export const projects: LocalizedProject[] = [
   },
   {
     id: 'eco-habitat',
-    image: 'https://images.pexels.com/photos/2469122/pexels-photo-2469122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    image: 'https://free.picui.cn/free/20260713/cc62d14dab6cb5ff44d50d564fd5469c.webp',
     title: {
       en: 'Hardware Component Mass Production',
       zh: '五金组件规模化生产',
@@ -100,7 +100,7 @@ export const projects: LocalizedProject[] = [
   },
   {
     id: 'pulse-fitness',
-    image: 'https://images.pexels.com/photos/1103242/pexels-photo-1103242.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+    image: 'https://free.picui.cn/free/20260713/8982370ee7a9b81b6d2ca51822feb4f6.webp',
     title: {
       en: 'Industrial Machinery Customization',
       zh: '工业机械设备定制',

@@ -73,25 +73,25 @@ export default function AboutPageClient({ content }: Props) {
                 year: '2016',
                 title: content.milestone1Title ?? t('milestone1Title'),
                 description: content.milestone1Desc ?? t('milestone1Desc'),
-                image: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+                image: 'https://free.picui.cn/free/20260713/15faa2b7e2e1265466ee2629c78fd3c5.webp',
               },
               {
                 year: '2018',
                 title: content.milestone2Title ?? t('milestone2Title'),
                 description: content.milestone2Desc ?? t('milestone2Desc'),
-                image: 'https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+                image: 'https://free.picui.cn/free/20260713/eb39128b93385c94eb1c8d17634d6954.webp',
               },
               {
                 year: '2020',
                 title: content.milestone3Title ?? t('milestone3Title'),
                 description: content.milestone3Desc ?? t('milestone3Desc'),
-                image: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+                image: 'https://free.picui.cn/free/20260713/4537e95775e6c859de0e1e283bccda59.webp',
               },
               {
-                year: '2023',
+                year: '2025',
                 title: content.milestone4Title ?? t('milestone4Title'),
                 description: content.milestone4Desc ?? t('milestone4Desc'),
-                image: 'https://images.pexels.com/photos/3182781/pexels-photo-3182781.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+                image: 'https://free.picui.cn/free/20260713/a4f9448045506fb4f2581aac428a62b0.webp',
               },
             ].map((milestone, index) => (
               <div key={index} className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">

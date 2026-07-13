@@ -222,5 +222,13 @@
     "copyright": "© 2024 Dongguan Yonghejian Precision Hardware Co., Ltd. All rights reserved",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service"
+  },
+  "NotFound": {
+    "heading": "Page Not Found",
+    "description": "The page you are looking for doesn't exist, may have been moved, or the link has expired. Please check the address or return to the homepage.",
+    "home": "Back to Home",
+    "back": "Go Back",
+    "metaTitle": "404 - Page Not Found | Yonghejian Precision Hardware",
+    "metaDescription": "The page you requested could not be found. Return to the Yonghejian homepage or go back to the previous page."
   }
 }

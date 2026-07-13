@@ -47,7 +47,7 @@ export default function TestimonialSlider({ testimonials }: TestimonialSliderPro
           )}
         >
           <p className="text-xl md:text-2xl font-playfair italic mb-8 relative z-10">
-            "{testimonial.quote}"
+            &ldquo;{testimonial.quote}&rdquo;
           </p>
           
           <div className="flex flex-col items-center">

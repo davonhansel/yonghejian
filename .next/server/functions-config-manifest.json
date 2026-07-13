@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "functions": {
+    "/[locale]/contact": {},
+    "/[locale]/about": {},
+    "/[locale]/projects": {},
+    "/[locale]": {}
+  }
+}
