@@ -1,7 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /admin/
-Disallow: /api/
-
-Host: https://yonghejian.example.com
-Sitemap: https://yonghejian.example.com/sitemap.xml
